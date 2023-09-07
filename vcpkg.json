@@ -1,0 +1,15 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
+  "name": "atxmetrics",
+  "version": "1.0.0",
+  "dependencies": [
+    {
+      "name": "tbb",
+      "default-features": false
+    },
+    {
+      "name": "opencv4"
+    }
+  ]
+}
+ 

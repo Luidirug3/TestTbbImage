@@ -1,0 +1,9 @@
+Package: tbb
+Version: 2021.9.0
+Port-Version: 2
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: a4e295abc1c3264f0b10937fea00cf5cc137c695f5efc21cf3b152d6a0ed6bd2
+Description: Intel's Threading Building Blocks.
+Status: install ok installed

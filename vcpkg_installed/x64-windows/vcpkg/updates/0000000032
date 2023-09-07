@@ -1,0 +1,8 @@
+Package: protobuf
+Version: 3.21.12
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 2942dcc45432f0a56f3b940aef70e44139a387b9d76c35aff8c4f020393280b5
+Description: Protocol Buffers - Google's data interchange format
+Status: install ok half-installed
